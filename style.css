@@ -9,5 +9,38 @@ a {
     text-decoration: none;
     color: inherit;
 }
-
-
+.hero {
+    align-items: center;
+    display: flex;
+    margin: 0 80px;
+    background: linear-gradient(to right, blue, white);
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 80px;
+    background: linear-gradient(to right, white, aqua);
+}
+.ishon {
+    font-size: 55px;
+    margin-bottom: 25px;
+}
+.paxx {
+    font-size: 30px;
+}
+.ghtps {
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 45px;
+    background-color: #00445B;
+    color: white;
+}
+.ghtps:hover {
+    color: white;
+    background-color: linear-gradient(to top,  rgb(0, 255, 0), white);
+}
+.j1j2 {
+    margin-left: 300px;
+}
